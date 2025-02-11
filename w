@@ -2,7 +2,7 @@
 int main()
 {
     int i;
-    std :: cout <<"i=";
+    std :: cout <<"i= ";
     std :: cin>> i;
     while(0<i)
     {
